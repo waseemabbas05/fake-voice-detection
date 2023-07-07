@@ -1,7 +1,7 @@
 librosa==0.7.0
 numpy==1.15.1
 joblib==0.13.0
-scipy==1.1.0
+scipy==1.10.0rc1
 scikit_optimize==0.5.2
 tensorflow-gpu==1.15.2
 tqdm==4.28.1
