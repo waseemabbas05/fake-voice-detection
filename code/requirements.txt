@@ -7,7 +7,7 @@ tensorflow-gpu==1.15.2
 tqdm==4.28.1
 matplotlib==3.0.1
 pydub==0.23.1
-Keras==2.2.4
+Keras==2.13.1rc0
 lws==1.2.5
 nlpaug==0.0.8
 scikit_learn==0.21.3
